@@ -23,6 +23,17 @@ test_skill_analyst_programmer_support_2022
 ![image](https://user-images.githubusercontent.com/104190242/164650000-13a14e26-7078-4030-b708-75f0b0a590c2.png)
 
 - Then copy query sql file raflyyudin.sql in Run SQL query/queries
- 
-![image](https://user-images.githubusercontent.com/104190242/164650154-4e9a1fed-dc56-4b41-b566-cd4ba1cae349.png)
+
+1.
+
+![image](https://user-images.githubusercontent.com/104190242/164651698-1aa35102-05ea-43ea-aa02-10b53e8234cf.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/104190242/164651794-f7e9b3c9-bf21-4ebb-9df9-df255a4ab201.png)
+
+3.
+
+![image](https://user-images.githubusercontent.com/104190242/164651862-50615721-93d6-4e8a-a266-ed8063a4a421.png)
+
 
